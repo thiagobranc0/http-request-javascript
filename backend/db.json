@@ -11,11 +11,6 @@
       "autoria": "Mestre Yoda"
     },
     {
-      "id": "5b8a",
-      "conteudo": "Na minha máquina funciona!",
-      "autoria": "Dev"
-    },
-    {
       "id": "68uy",
       "conteudo": "Esse é de laranja que parece de limão, mas tem gosto de tamarindo!",
       "autoria": "Chaves"
@@ -67,7 +62,12 @@
     },
     {
       "id": "8493",
-      "conteudo": "          Are you okay??",
+      "conteudo": "Hey, come on, come on!",
+      "autoria": "Terry Bogard"
+    },
+    {
+      "id": "93c5",
+      "conteudo": "Are you okay?? Buster Wolf!",
       "autoria": "Terry Bogard"
     }
   ]
